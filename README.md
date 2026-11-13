@@ -275,5 +275,5 @@ This is a learning project. These are the gaps I know about and would address ne
 
 ## Author
 
-**Your Name**
+**Rajeswar Reddy Pondugula**
 [LinkedIn](www.linkedin.com/in/rajeswarreddy-pondugula) · [GitHub](https://github.com/Rajeswarrddy)
